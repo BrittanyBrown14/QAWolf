@@ -1,0 +1,14 @@
+.card--main{  
+    height: 400px;
+    width: 250px;
+    border: 0.2rem solid var(--white);  
+    border-radius: 1em;
+    margin: 0.5em;
+}
+
+.card--image{
+    border: 1px solid black;
+    margin-bottom: -1em;
+    padding-bottom: -1em;
+    width: 50%;
+  }
